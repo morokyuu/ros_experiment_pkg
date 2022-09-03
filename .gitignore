@@ -1,0 +1,4 @@
+.vscode
+backyard/
+*.pyc
+*.swp
